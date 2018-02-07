@@ -1,4 +1,15 @@
-README file for axdigi  			24 July 1995
+README file for axdigi					2017
+
+axdigi adalah program yang dibuat untuk mengakses port ax25 pada sistem
+Linux untuk melakukan fungsi digipeating. Program ini akan melaksanakan
+fungsi digipeating tanpa memerlukan argumen apapun, program ini dibentuk
+dari fork axdigi buatan C. Small.
+
+TO DO LIST:
+1. SIGINT_handler
+2. Re-write to suit current kernel
+
+Original README file for axdigi  			24 July 1995
 
 axdigi is a simple little program that will allow Linux systems to do
 cross-port digipeating.  For those, like me, who are having problems with
